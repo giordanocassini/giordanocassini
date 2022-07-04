@@ -1,4 +1,4 @@
-## Que bom você está aqui! Me chamo Giordano Cassini e este é o meu perfil no GitHub.
+## So good to have you here! My name is Giordano Cassini and that's my GitHub profile.
 <div align="center">
   <a href="https://github.com/giordanocassini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=giordanocassini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
